@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Version: 2021011501353
+! Version: 2021011501355
 ! Title: Tim's Whitelist
 ! Expires: 1 days
-! Homepage: https://acceptableads.com/
+! Homepage: https://github.com/parkertim/whitelist
 @@||w3ibm^$document
 @@||10.*^$document
 @@||129.34.32.25^$document
@@ -101,6 +101,7 @@
 @@||social.playstation.com^$document
 @@||society6.com^$document
 @@||softlayer.local^$document
+@@||softlayer.com^$document
 @@||solvetube.site^$document
 @@||staples.com^$document
 @@||stmarysbank.com^$document
