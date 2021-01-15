@@ -1,28 +1,40 @@
 [Adblock Plus 2.0]
-! Version: 2021011501335
+! Version: 2021011501353
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://acceptableads.com/
 @@||w3ibm^$document
-@@||10.22.1.10^$document
+@@||10.*^$document
 @@||129.34.32.25^$document
 @@||129.34.32.26^$document
 @@||1337x.st^$document
-@@||172.18.0.15^$document
-@@||172.20.0.15^$document
-@@||192.168.1.130^$document
-@@||192.168.1.250^$document
+@@||172.16.*^$document
+@@||172.17.*^$document
+@@||172.18.*^$document
+@@||172.19.*^$document
+@@||172.20.*^$document
+@@||172.21.*^$document
+@@||172.22.*^$document
+@@||172.23.*^$document
+@@||172.24.*^$document
+@@||172.25.*^$document
+@@||172.26.*^$document
+@@||172.27.*^$document
+@@||172.28.*^$document
+@@||172.29.*^$document
+@@||172.30.*^$document
+@@||172.31.*^$document
+@@||192.168.*^$document
 @@||academy.com^$document
 @@||account.xbox.com^$document
 @@||acehardware.com^$document
 @@||airbnb.com^$document
 @@||amctheatres.com^$document
 @@||amica.com^$document
-@@||app.degoo.com^$document
-@@||app.ibotta.com^$document
+@@||degoo.com^$document
+@@||ibotta.com^$document
 @@||ascvs.org^$document
 @@||biltmoreshop.com^$document
-@@||bldvmb.pok.ibm.com^$document
 @@||businessinsider.com^$document
 @@||cafewell.com^$document
 @@||capitalmazdaofcary.com^$document
@@ -30,15 +42,12 @@
 @@||catalogchoice.org^$document
 @@||chase.com^$document
 @@||cloud.appscan.com^$document
-@@||cloud.ibm.com^$document
 @@||cloudant.com^$document
-@@||cns.usps.com^$document
 @@||coastal24.com^$document
 @@||coinbase.com^$document
 @@||concursolutions.com^$document
 @@||consumerreports.org^$document
 @@||costco.com^$document
-@@||credit.kohls.com^$document
 @@||delta.com^$document
 @@||digicert.com^$document
 @@||discounttiredirect.com^$document
@@ -59,11 +68,10 @@
 @@||groupon.com^$document
 @@||havertys.com^$document
 @@||helpcenter.washingtonpost.com^$document
-@@||home.personalcapital.com^$document
-@@||hub.docker.com^$document
+@@||personalcapital.com^$document
+@@||docker.com^$document
 @@||ibm.com^$document
 @@||ibm.ent.box.com^$document
-@@||idaas.iam.ibm.com^$document
 @@||idaccesshub.com^$document
 @@||kohls.com^$document
 @@||lenovo.com^$document
@@ -72,18 +80,16 @@
 @@||mercari.com^$document
 @@||mintmobile.com^$document
 @@||my.playstation.com^$document
-@@||my.stmarysbank.com^$document
 @@||nasdaq.com^$document
 @@||officedepot.com^$document
 @@||omegasports.com^$document
-@@||online.citi.com^$document
+@@||citi.com^$document
 @@||onmsft.com^$document
 @@||pandora.com^$document
 @@||petco.com^$document
 @@||petsmart.com^$document
 @@||polkpa.org^$document
 @@||poshmark.com^$document
-@@||postcalc.usps.com^$document
 @@||powerofvitality.com^$document
 @@||providentmetals.com^$document
 @@||rakuten.com^$document
@@ -91,14 +97,14 @@
 @@||robinhood.com^$document
 @@||scott-sports.com^$document
 @@||service-now.com^$document
-@@||service.geico.com^$document
+@@||geico.com^$document
 @@||social.playstation.com^$document
 @@||society6.com^$document
+@@||softlayer.local^$document
 @@||solvetube.site^$document
 @@||staples.com^$document
 @@||stmarysbank.com^$document
 @@||stockpile.com^$document
-@@||support.personalcapital.com^$document
 @@||svg-edit.github.io^$document
 @@||sysnettechsolutions.com^$document
 @@||target.com^$document
