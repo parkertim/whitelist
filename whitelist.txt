@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 2021011501355
+! Version: 2021011501422
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -25,6 +25,7 @@
 @@||172.30.*^$document
 @@||172.31.*^$document
 @@||192.168.*^$document
+@@||aha.io^$document
 @@||academy.com^$document
 @@||account.xbox.com^$document
 @@||acehardware.com^$document
