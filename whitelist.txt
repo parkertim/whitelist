@@ -40,6 +40,7 @@
 @@||cafewell.com^$document
 @@||capitalmazdaofcary.com^$document
 @@||capitalone.com^$document
+@@||capitaloneshopping.com^$document
 @@||catalogchoice.org^$document
 @@||chase.com^$document
 @@||cloud.appscan.com^$document
@@ -82,6 +83,7 @@
 @@||mintmobile.com^$document
 @@||my.playstation.com^$document
 @@||nasdaq.com^$document
+@@||newegg.com^$document
 @@||officedepot.com^$document
 @@||omegasports.com^$document
 @@||citi.com^$document
@@ -108,6 +110,7 @@
 @@||stmarysbank.com^$document
 @@||stockpile.com^$document
 @@||svg-edit.github.io^$document
+@@||swg-devops.com^$document
 @@||sysnettechsolutions.com^$document
 @@||target.com^$document
 @@||ticketmaster.com^$document
