@@ -122,3 +122,5 @@
 @@||usps.com^$document
 @@||washingtonpost.com^$document
 @@||wellnesscheckpoint.com^$document
+@@||dsw.com^$document
+@@||raise.com^$document
