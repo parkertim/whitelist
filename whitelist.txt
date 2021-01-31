@@ -78,6 +78,7 @@
 @@||kohls.com^$document
 @@||lenovo.com^$document
 @@||lowes.com^$document
+@@||homedepot.com^$document
 @@||mail.google.com^$document
 @@||mercari.com^$document
 @@||mintmobile.com^$document
@@ -124,3 +125,4 @@
 @@||wellnesscheckpoint.com^$document
 @@||dsw.com^$document
 @@||raise.com^$document
+@@||marcos.com^$document
