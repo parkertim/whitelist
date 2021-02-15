@@ -127,3 +127,4 @@
 @@||dsw.com^$document
 @@||raise.com^$document
 @@||marcos.com^$document
+@@||guaranteedrate.com^$document
