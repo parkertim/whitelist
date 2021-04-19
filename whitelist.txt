@@ -26,6 +26,7 @@
 @@||172.31.*^$document
 @@||192.168.*^$document
 @@||aha.io^$document
+@@||aetna.com^$document
 @@||academy.com^$document
 @@||account.xbox.com^$document
 @@||acehardware.com^$document
