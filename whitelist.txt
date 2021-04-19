@@ -39,6 +39,7 @@
 @@||biltmoreshop.com^$document
 @@||businessinsider.com^$document
 @@||cafewell.com^$document
+@@||caremark.com^$document
 @@||capitalmazdaofcary.com^$document
 @@||capitalone.com^$document
 @@||capitaloneshopping.com^$document
