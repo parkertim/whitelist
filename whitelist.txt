@@ -113,10 +113,12 @@
 @@||staples.com^$document
 @@||stmarysbank.com^$document
 @@||stockpile.com^$document
+@@||strava.com^$document
 @@||svg-edit.github.io^$document
 @@||swg-devops.com^$document
 @@||sysnettechsolutions.com^$document
 @@||target.com^$document
+@@||targetphoto.com^$document
 @@||ticketmaster.com^$document
 @@||townofcary.org^$document
 @@||ubisoft-support.secure.force.com^$document
