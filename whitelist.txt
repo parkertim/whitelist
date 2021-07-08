@@ -78,6 +78,7 @@
 @@||ibm.com^$document
 @@||ibm.ent.box.com^$document
 @@||idaccesshub.com^$document
+@@||instana.io^$document
 @@||kohls.com^$document
 @@||lenovo.com^$document
 @@||lowes.com^$document
