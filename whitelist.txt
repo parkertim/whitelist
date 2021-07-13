@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 2021011501422
+! Version: 202107131224
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -31,11 +31,13 @@
 @@||account.xbox.com^$document
 @@||acehardware.com^$document
 @@||airbnb.com^$document
+@@||alltrails.com^$document
 @@||amctheatres.com^$document
 @@||amica.com^$document
 @@||degoo.com^$document
 @@||ibotta.com^$document
 @@||ascvs.org^$document
+@@||baddaddysburgerbar.com^$document
 @@||biltmoreshop.com^$document
 @@||businessinsider.com^$document
 @@||cafewell.com^$document
@@ -45,6 +47,7 @@
 @@||capitaloneshopping.com^$document
 @@||catalogchoice.org^$document
 @@||chase.com^$document
+@@||citi.com^$document
 @@||cloud.appscan.com^$document
 @@||cloudant.com^$document
 @@||coastal24.com^$document
@@ -60,53 +63,65 @@
 @@||docker.com^$document
 @@||docs.ansible.com^$document
 @@||docs.sysdig.com^$document
+@@||doordash.com^$document
 @@||drive.google.com^$document
+@@||dsw.com^$document
 @@||e-rewards.com^$document
+@@||ebay.com^$document
 @@||fidelity.com^$document
 @@||filetitle.com^$document
 @@||flipp.com^$document
 @@||flyfrontier.com^$document
 @@||forbes.com^$document
+@@||formula1.com^$document
 @@||freedommortgage.com^$document
+@@||geico.com^$document
 @@||github.com^$document
 @@||golfgalaxy.com^$document
+@@||gpcloudservice.com^$document
 @@||grokdebug.herokuapp.com^$document
 @@||groupon.com^$document
+@@||guaranteedrate.com^$document
 @@||havertys.com^$document
 @@||helpcenter.washingtonpost.com^$document
-@@||personalcapital.com^$document
-@@||docker.com^$document
 @@||ibm.com^$document
 @@||ibm.ent.box.com^$document
 @@||idaccesshub.com^$document
 @@||instana.io^$document
+@@||jensonusa.com^$document
 @@||kohls.com^$document
 @@||lenovo.com^$document
 @@||lowes.com^$document
 @@||homedepot.com^$document
 @@||mail.google.com^$document
+@@||marcos.com^$document
 @@||mercari.com^$document
 @@||mintmobile.com^$document
+@@||morganstanley.com^$document
 @@||my.playstation.com^$document
+@@||myworkday.com^$document
 @@||nasdaq.com^$document
+@@||nc.gov^$document
 @@||newegg.com^$document
 @@||officedepot.com^$document
 @@||omegasports.com^$document
-@@||citi.com^$document
 @@||onmsft.com^$document
 @@||pandora.com^$document
+@@||personalcapital.com^$document
 @@||petco.com^$document
 @@||petsmart.com^$document
 @@||polkpa.org^$document
 @@||poshmark.com^$document
 @@||powerofvitality.com^$document
+@@||prepaiddigitalsolutions.com^$document
 @@||providentmetals.com^$document
+@@||raise.com^$document
 @@||rakuten.com^$document
 @@||rei.com^$document
 @@||robinhood.com^$document
 @@||scott-sports.com^$document
 @@||service-now.com^$document
-@@||geico.com^$document
+@@||smokymountains.com^$document
 @@||social.playstation.com^$document
 @@||society6.com^$document
 @@||softlayer.local^$document
@@ -123,6 +138,7 @@
 @@||targetphoto.com^$document
 @@||ticketmaster.com^$document
 @@||townofcary.org^$document
+@@||trianglebtt.com^$document
 @@||ubisoft-support.secure.force.com^$document
 @@||uplay.ubisoft.com^$document
 @@||uploadrar.com^$document
@@ -130,10 +146,3 @@
 @@||usps.com^$document
 @@||washingtonpost.com^$document
 @@||wellnesscheckpoint.com^$document
-@@||dsw.com^$document
-@@||raise.com^$document
-@@||marcos.com^$document
-@@||guaranteedrate.com^$document
-@@||gpcloudservice.com^$document
-@@||formula1.com^$document
-@@||myworkday.com^$document
