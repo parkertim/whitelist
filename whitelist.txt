@@ -56,6 +56,7 @@
 @@||digicert.com^$document
 @@||discounttiredirect.com^$document
 @@||discover.com^$document
+@@||disney.go.com^$document
 @@||docker.com^$document
 @@||docs.ansible.com^$document
 @@||docs.sysdig.com^$document
