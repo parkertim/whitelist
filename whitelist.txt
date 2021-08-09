@@ -39,6 +39,7 @@
 @@||ascvs.org^$document
 @@||baddaddysburgerbar.com^$document
 @@||biltmoreshop.com^$document
+@@||brassring.com^$document
 @@||businessinsider.com^$document
 @@||cafewell.com^$document
 @@||caremark.com^$document
@@ -147,3 +148,4 @@
 @@||washingtonpost.com^$document
 @@||wellnesscheckpoint.com^$document
 @@||woot.com^$document
+@@||zabbix.com^$document
