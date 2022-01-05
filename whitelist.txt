@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202201051334
+! Version: 202201051342
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -87,7 +87,10 @@
 @@||helpcenter.washingtonpost.com^$document
 @@||ibm.com^$document
 @@||ibm.ent.box.com^$document
+@@||ibmenterpriseus.awardsworldwide.com^$document
+@@||ibm.trustassure.app^$document
 @@||idaccesshub.com^$document
+@@||indeed.com^$document
 @@||instana.io^$document
 @@||jensonusa.com^$document
 @@||kohls.com^$document
@@ -140,6 +143,7 @@
 @@||ticketmaster.com^$document
 @@||townofcary.org^$document
 @@||trianglebtt.com^$document
+@@||tv.youtube.com^$document
 @@||ubisoft-support.secure.force.com^$document
 @@||uplay.ubisoft.com^$document
 @@||uploadrar.com^$document
