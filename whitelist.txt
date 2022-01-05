@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202201051342
+! Version: 202201051344
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -107,6 +107,7 @@
 @@||nasdaq.com^$document
 @@||nc.gov^$document
 @@||newegg.com^$document
+@@||oculus.com^$document
 @@||officedepot.com^$document
 @@||omegasports.com^$document
 @@||onmsft.com^$document
