@@ -64,6 +64,7 @@
 @@||docker.com^$document
 @@||docs.ansible.com^$document
 @@||docs.sysdig.com^$document
+@@||dominos.com^$document
 @@||doordash.com^$document
 @@||drive.google.com^$document
 @@||dsw.com^$document
