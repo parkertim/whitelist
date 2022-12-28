@@ -70,6 +70,7 @@
 @@||dsw.com^$document
 @@||e-rewards.com^$document
 @@||ebay.com^$document
+@@||fedex.com^$document
 @@||fiber.google.com^$document
 @@||fidelity.com^$document
 @@||filetitle.com^$document
@@ -96,6 +97,7 @@
 @@||indeed.com^$document
 @@||instana.io^$document
 @@||jensonusa.com^$document
+@@||joesnewbalanceoutlet.com^$document
 @@||kohls.com^$document
 @@||lenovo.com^$document
 @@||localhost^$document
@@ -104,6 +106,7 @@
 @@||mail.google.com^$document
 @@||marcos.com^$document
 @@||mercari.com^$document
+@@||microsoft.com^$document
 @@||mintmobile.com^$document
 @@||morganstanley.com^$document
 @@||mrcooper.com^$document
@@ -112,6 +115,7 @@
 @@||nasdaq.com^$document
 @@||nc.gov^$document
 @@||newegg.com^$document
+@@||nvidia.com^$document
 @@||oculus.com^$document
 @@||officedepot.com^$document
 @@||omegasports.com^$document
@@ -129,6 +133,7 @@
 @@||rakuten.com^$document
 @@||rei.com^$document
 @@||robinhood.com^$document
+@@||samsung.com^$document
 @@||scott-sports.com^$document
 @@||service-now.com^$document
 @@||smokymountains.com^$document
