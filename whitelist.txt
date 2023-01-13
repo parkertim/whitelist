@@ -70,6 +70,7 @@
 @@||dsw.com^$document
 @@||e-rewards.com^$document
 @@||ebay.com^$document
+@@||equinix.com^$document
 @@||fedex.com^$document
 @@||fiber.google.com^$document
 @@||fidelity.com^$document
@@ -114,6 +115,7 @@
 @@||myworkday.com^$document
 @@||nasdaq.com^$document
 @@||nc.gov^$document
+@@||nclottery.com^$document
 @@||newegg.com^$document
 @@||nvidia.com^$document
 @@||oculus.com^$document
