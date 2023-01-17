@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202202092113
+! Version: 202301162254
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -126,6 +126,7 @@
 @@||personalcapital.com^$document
 @@||petco.com^$document
 @@||petsmart.com^$document
+@@||pirateship.com^$document
 @@||polkpa.org^$document
 @@||poshmark.com^$document
 @@||powerofvitality.com^$document
