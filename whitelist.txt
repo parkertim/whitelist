@@ -106,6 +106,7 @@
 @@||homedepot.com^$document
 @@||mail.google.com^$document
 @@||marcos.com^$document
+@@||mellanox.com^$document
 @@||mercari.com^$document
 @@||microsoft.com^$document
 @@||mintmobile.com^$document
@@ -139,6 +140,7 @@
 @@||samsung.com^$document
 @@||scott-sports.com^$document
 @@||service-now.com^$document
+@@||sharepoint.com^$document
 @@||smokymountains.com^$document
 @@||social.playstation.com^$document
 @@||society6.com^$document
