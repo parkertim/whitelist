@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202301232254
+! Version: 202304171156
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -48,6 +48,7 @@
 @@||capitaloneshopping.com^$document
 @@||catalogchoice.org^$document
 @@||chase.com^$document
+@@||cigna.com^$document
 @@||citi.com^$document
 @@||cloud.appscan.com^$document
 @@||cloudant.com^$document
@@ -124,6 +125,7 @@
 @@||omegasports.com^$document
 @@||onmsft.com^$document
 @@||pandora.com^$document
+@@||paymentus.com^$document
 @@||personalcapital.com^$document
 @@||petco.com^$document
 @@||petsmart.com^$document
