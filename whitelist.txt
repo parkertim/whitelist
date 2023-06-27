@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202305241339
+! Version: 202306271232
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -38,6 +38,7 @@
 @@||ibotta.com^$document
 @@||ascvs.org^$document
 @@||baddaddysburgerbar.com^$document
+@@||bestbuy.com^$document
 @@||biltmoreshop.com^$document
 @@||brassring.com^$document
 @@||businessinsider.com^$document
@@ -121,6 +122,7 @@
 @@||nclottery.com^$document
 @@||newegg.com^$document
 @@||nvidia.com^$document
+@@||nvidiagrid.net^$document
 @@||oculus.com^$document
 @@||officedepot.com^$document
 @@||omegasports.com^$document
@@ -169,8 +171,10 @@
 @@||uploadrar.com^$document
 @@||ups.com^$document
 @@||usps.com^$document
+@@||vrbo.com^$document
 @@||washingtonpost.com^$document
 @@||wellnesscheckpoint.com^$document
 @@||woot.com^$document
 @@||workhuman.com^$document
 @@||zabbix.com^$document
+@@||zillow.com^$document
