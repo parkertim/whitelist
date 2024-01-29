@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202306271232
+! Version: 202401291216
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -58,6 +58,7 @@
 @@||concursolutions.com^$document
 @@||consumerreports.org^$document
 @@||costco.com^$document
+@@||cssportal.com^$document
 @@||databricks.com^$document
 @@||delta.com^$document
 @@||digicert.com^$document
@@ -144,6 +145,7 @@
 @@||robinhood.com^$document
 @@||samsung.com^$document
 @@||scott-sports.com^$document
+@@||senate.gov^$document
 @@||service-now.com^$document
 @@||sharepoint.com^$document
 @@||smokymountains.com^$document
