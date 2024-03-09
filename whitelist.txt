@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202402121202
+! Version: 202403091437
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -34,8 +34,6 @@
 @@||alltrails.com^$document
 @@||amctheatres.com^$document
 @@||amica.com^$document
-@@||degoo.com^$document
-@@||ibotta.com^$document
 @@||ascvs.org^$document
 @@||baddaddysburgerbar.com^$document
 @@||bestbuy.com^$document
@@ -60,6 +58,7 @@
 @@||costco.com^$document
 @@||cssportal.com^$document
 @@||databricks.com^$document
+@@||degoo.com^$document
 @@||delta.com^$document
 @@||digicert.com^$document
 @@||discounttiredirect.com^$document
@@ -81,6 +80,7 @@
 @@||filetitle.com^$document
 @@||flipp.com^$document
 @@||flyfrontier.com^$document
+@@||foodlion.com^$document
 @@||forbes.com^$document
 @@||formula1.com^$document
 @@||freedommortgage.com^$document
@@ -93,6 +93,7 @@
 @@||guaranteedrate.com^$document
 @@||havertys.com^$document
 @@||helpcenter.washingtonpost.com^$document
+@@||ibotta.com^$document
 @@||ibm.com^$document
 @@||ibm.ent.box.com^$document
 @@||ibm.trustassure.app^$document
@@ -105,6 +106,7 @@
 @@||joesnewbalanceoutlet.com^$document
 @@||kohls.com^$document
 @@||lenovo.com^$document
+@@||live.com^$document
 @@||localhost^$document
 @@||lowes.com^$document
 @@||homedepot.com^$document
