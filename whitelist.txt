@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202403201437
+! Version: 202405011409
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -29,6 +29,7 @@
 @@||aetna.com^$document
 @@||academy.com^$document
 @@||account.xbox.com^$document
+@@||arccosgolf.com^$document
 @@||acehardware.com^$document
 @@||airbnb.com^$document
 @@||alltrails.com^$document
@@ -38,6 +39,7 @@
 @@||baddaddysburgerbar.com^$document
 @@||bestbuy.com^$document
 @@||biltmoreshop.com^$document
+@@||blenderseyewear.com^$document
 @@||brassring.com^$document
 @@||businessinsider.com^$document
 @@||cafewell.com^$document
@@ -48,8 +50,9 @@
 @@||catalogchoice.org^$document
 @@||chase.com^$document
 @@||cigna.com^$document
+@@||cisecurity.org^$document
 @@||citi.com^$document
-@@||cloud.appscan.com^$document
+@@||appscan.com^$document
 @@||cloudant.com^$document
 @@||coastal24.com^$document
 @@||coinbase.com^$document
@@ -109,6 +112,7 @@
 @@||live.com^$document
 @@||localhost^$document
 @@||lowes.com^$document
+@@||lunchdrop.com^$document
 @@||homedepot.com^$document
 @@||mail.google.com^$document
 @@||marcos.com^$document
@@ -145,6 +149,7 @@
 @@||qualys.com^$document
 @@||raise.com^$document
 @@||rakuten.com^$document
+@@||rapsodo.com^$document
 @@||rei.com^$document
 @@||robinhood.com^$document
 @@||samsung.com^$document
