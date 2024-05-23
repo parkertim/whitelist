@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202405011409
+! Version: 202405231409
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -90,6 +90,7 @@
 @@||geico.com^$document
 @@||github.com^$document
 @@||golfgalaxy.com^$document
+@@||golftec.com^$document
 @@||gpcloudservice.com^$document
 @@||grokdebug.herokuapp.com^$document
 @@||groupon.com^$document
