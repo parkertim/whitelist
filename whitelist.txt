@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 202409191108
+! Version: 202410241108
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -121,6 +121,7 @@
 @@||mellanox.com^$document
 @@||mercari.com^$document
 @@||microsoft.com^$document
+@@||microsoftonline.com^$document
 @@||mintmobile.com^$document
 @@||morganstanley.com^$document
 @@||mrcooper.com^$document
