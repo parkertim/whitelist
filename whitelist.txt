@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 2025002271016
+! Version: 202506111055
 ! Title: Tim's Whitelist
 ! Expires: 1 days
 ! Homepage: https://github.com/parkertim/whitelist
@@ -77,6 +77,7 @@
 @@||drive.google.com^$document
 @@||drivenc.gov^$document
 @@||dsw.com^$document
+@@||duke-energy.com^$document
 @@||e-rewards.com^$document
 @@||ebay.com^$document
 @@||equinix.com^$document
